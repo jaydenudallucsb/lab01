@@ -1,4 +1,4 @@
-#include "lab01_Student.h"
+#include "Student.h"
 #include <sstream>
 
 Student::Student(int perm, 
